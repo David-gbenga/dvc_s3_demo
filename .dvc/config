@@ -1,0 +1,4 @@
+[core]
+    remote = aws_bucket
+['remote "aws_bucket"']
+    url = s3://dvc-test-credit/dvc-storage
