@@ -1,0 +1,5 @@
+outs:
+- md5: 74e510f7c0c4947d494d9d3b57803ae7
+  size: 8408
+  hash: md5
+  path: data_creditrisk.csv
